@@ -1,5 +1,7 @@
 *.class
 *.log
+*.conf
+*.db
 
 # sbt specific
 .cache
@@ -17,3 +19,6 @@ project/plugins/project/
 .worksheet
 .idea
 .bsp
+.bloop/
+.vscode/
+metals.sbt
